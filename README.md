@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Dragging
+
+DragComponent allows people to create a component that is draggable. Example would be the Navbar toggler.
+
+### Infomation
+
+Use event handlers of onDrag and onDragEnd with the combination of screen size. Therefore, component could go beyond the screen view.  
+
 ## Available Scripts
 
 In the project directory, you can run:
